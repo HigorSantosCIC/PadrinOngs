@@ -1,4 +1,4 @@
-# PadrinOngs
+# Patreon Twitch
 Interface para ajudar a encontrar patreons para seus projetos.
 
 # Todo List
